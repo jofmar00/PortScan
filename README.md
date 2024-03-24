@@ -1,5 +1,5 @@
 # PortScan
-Little bash script to discover open ports in remote machine.
+Little bash script to discover open ports in remote machines.
 
 # Usage
 ```
